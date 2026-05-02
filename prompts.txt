@@ -1,0 +1,59 @@
+Prompt System Used in This Project
+
+---
+
+Pillar Blog Prompt
+
+Act as an SEO expert and content strategist.
+
+Create a long-form SEO blog for a Digital Marketing Agency in Bangalore targeting the keyword:
+"Digital Marketing Agency in Bangalore"
+
+Requirements:
+
+* 1200–1500 words
+* Use H1, H2, H3 structure
+* Include introduction, services, pricing, benefits, how to choose, FAQs, and CTA
+* Use simple English
+* Include Bangalore naturally for local SEO
+* Add internal linking suggestions
+* Make it conversion-focused
+
+---
+
+Supporting Blog Prompt
+
+Act as an SEO content writer.
+
+Create a detailed SEO blog targeting the keyword:
+"[INSERT KEYWORD]"
+
+Requirements:
+
+* 800–1000 words
+* Use clear H1, H2, H3 headings
+* Use simple and beginner-friendly English
+* Answer search intent clearly
+* Include Bangalore where relevant
+* Add FAQ section
+* Add call-to-action
+* Include internal linking to pillar blog
+
+---
+
+Content Cluster Prompt
+
+Act as an SEO strategist.
+
+Create a content cluster for:
+"Digital Marketing Agency in Bangalore"
+
+Include:
+
+* 1 pillar blog topic
+* 4 supporting blog topics
+* Keywords for each
+* Search intent
+* Internal linking strategy
+
+Format in a table.
